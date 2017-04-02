@@ -15,6 +15,7 @@
 <script src="three.js/threex-artoolkitprofile.js"></script>
 <script src="three.js/threex-armarkercontrols.js"></script>
 <script src="three.js/threex-armarkercontrols.js"></script>
+<!-- include deadreckoning controls -->
 <script src="three.js/examples/deadreckoning/threex-deadreckoningcontrols.js"></script>
 
 <script>THREEx.ArToolkitContext.baseURL = '../'</script>
@@ -199,7 +200,7 @@ if( false ){
 	//		render the whole thing on the page
 	//////////////////////////////////////////////////////////////////////////////////
 	var stats = new Stats();
-	// document.body.appendChild( stats.dom );
+	document.body.appendChild( stats.dom );
 	// render the scene
 	onRenderFcts.push(function(){
 		renderer.render( scene, camera );
