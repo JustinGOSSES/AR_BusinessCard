@@ -7,8 +7,10 @@ Icon that is AR Target
 ## Instructions & Browser Limitations
 - This should work on any browser with WebGL and WebRTC. It doesn't require any special hardware. iOS currently doesn't work right now, but it should work soon apparently. 
 - Instructions:
+  - Webpage is live at <a href="https://justingosses.github.io/AR_BusinessCard/">https://justingosses.github.io/AR_BusinessCard/</a>
   - Open the <a href="https://justingosses.github.io/AR_BusinessCard/">page</a> and click the window that asks for permission to use your camera.
   - Point the phone or laptop camera at the Y shaped icon on the business card. The 3D object should pop up. 
+- <a href="https://twitter.com/JustinGosses/status/848636777028096001">Video</a> on twitter. 
 
 ## Purpose
 This is an attempt at using AR, augmented reality, on a business card. It is largely an experiment to figure out how the technolog works for browser based AR. 
