@@ -1,6 +1,8 @@
 # An Augmented Reality Business Card of Gale Crater on Mars
 
-![image_of_GaleCrater_AR](https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png)
+![image_of_GaleCrater_AR](https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png =250x250)
+
+![The Kanji icon that triggers the AR](https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/kanji.png =250x250)
 
 ## Instructions & Browser Limitations
 - This should work on any browser with WebGL and WebRTC. It doesn't require any special hardware. iOS currently doesn't work right now, but it should work soon apparently. 
