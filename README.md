@@ -1,4 +1,4 @@
-# An Augmented Reality Business Card of Gale Crater on Mars
+# An Augmented Reality Object of Gale Crater on Mars Triggered By Icon on Backside of Business Card
 AR Images in Action
 <img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png" width="400">
 Icon that is AR Target
