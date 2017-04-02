@@ -21,7 +21,8 @@ To save space, I've not referenced or included full libaries Instead, I've only 
 - <a href="https://github.com/artoolkit/jsartoolkit5">Artoolkit.js</a>
 
 ## Data Source for Object
-Taken from the meta data: This STL file is a topographic model of Gale Crater with 3x vertical exageration derived from data collected by the HRSC camera onboard the ESA's Mars Express mission. Gale Crater is currently being explored by NASA's Curiosity Rover. Printed at its default size (11cm across) this model cover an area approximately 200km across at a scale of 1.9 million to one ( 1 cm = 19 km ) Data Credit : K. Gwinner,J. Oberst,R. Jaumann, G.Neukum, ESA/DLR/FU Berlin
+Information modified slightly from the original object meta data: The original STL file is a topographic model of Gale Crater with 3x vertical exageration derived from data collected by the HRSC camera onboard the ESA's Mars Express mission. The augmented reality version has vertical exaggerated 4x.  Gale Crater is currently being explored by NASA's Curiosity Rover. This model cover an area approximately 200km across. Data Credit : K. Gwinner,J. Oberst,R. Jaumann, G.Neukum, ESA/DLR/FU Berlin
+
 <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>
 
 ## Preparation
