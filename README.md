@@ -1,14 +1,8 @@
 # An Augmented Reality Business Card of Gale Crater on Mars
-
-![image_of_GaleCrater_AR](https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png){
-  width: 250;
-  height:250;
-}
-
-![The Kanji icon that triggers the AR](https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/kanji.png){
-  width: 250;
-  height:250;
-}
+AR Images in Action
+<img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png" width="250">
+Icon that is AR Target
+<img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/master/images/kanji.png" width="100">
 
 
 ## Instructions & Browser Limitations
