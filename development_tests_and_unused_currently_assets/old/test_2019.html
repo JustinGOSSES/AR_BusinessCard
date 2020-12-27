@@ -1,0 +1,46 @@
+<!-- test.html -->
+
+<!doctype HTML>
+<html>
+    
+<script src="https://unpkg.com/aframe-stl-model-component/dist/aframe-stl-model-component.min.js"></script>
+
+<!-- <script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script> -->
+<script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
+<script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.1/aframe/build/aframe-ar.js"></script>
+<script src="https://rawgit.com/darkwave/aframe-stl-model-component/master/dist/aframe-stl-model-component.min.js"></script>
+  <body style='margin : 0px; overflow: hidden;'>
+    <a-scene embedded arjs>
+      <a-marker preset="kanji"> -->
+          <!-- <a-box position='0 0.5 0' material='color: yellow;'></a-box> -->
+         <a-entity stl-model="gale_crater_50.stls"></a-entity>
+      </a-marker>
+        <a-entity camera></a-entity>
+        <div style="margin:0 auto;">
+                <h2>Sorry, this site is having problems.</h2>
+                <h4>Browser APIs have changed. We'll fit it soon.</h4>
+            </div>
+    </a-scene>
+    
+  </body>
+
+  <!-- <head>
+        <title>My A-Frame Scene</title>
+        <script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
+        <script src="https://unpkg.com/aframe-stl-model-component/dist/aframe-stl-model-component.min.js"></script>
+        <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.1/aframe/build/aframe-ar.js"></script>
+      </head>
+      
+      <body>
+        <a-scene embedded arjs>
+            <a-marker preset="kanji">
+                <a-entity stl-model="gale_crater_50.stls"></a-entity>
+            </a-marker>
+        </a-scene>
+      </body> -->
+
+
+
+
+</html>
+
