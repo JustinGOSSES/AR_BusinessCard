@@ -134,16 +134,18 @@ function initialize()
 	
 	new THREE.MTLLoader()
 		.setPath( 'models/' )
-		.load( 'globe.mtl', function ( materials ) {
+		.load( 'globe.mtl', function (materials) {
 			materials.preload();
 			new THREE.OBJLoader()
 				.setMaterials( materials )
 				.setPath( 'models/' )
 				.load( 'globe.obj', function ( group ) {
 					mesh0 = group.children[0];
-					mesh0.material.side = THREE.DoubleSide;
+					mesh0.material.side = THREE.BackSide;
 					mesh0.position.y = 1.2;
 					mesh0.scale.set(0.03,0.03,0.03);
+					// mesh0.position.y = 0.1;
+					// mesh0.scale.set(5,5,5);
 					markerRoot1.add(mesh0);
 				}, onProgress, onError );
 		});
