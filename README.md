@@ -9,7 +9,7 @@ In the past, a globe was seen and before that, Gale Crater, the landing site of 
 - Instructions:
   - Webpage is live at <a href="https://justingosses.github.io/AR_BusinessCard/">https://justingosses.github.io/AR_BusinessCard/</a>
   - Open the <a href="https://justingosses.github.io/AR_BusinessCard/">page</a> and click the window that asks for permission to use your camera.
-  - Point the phone or laptop camera at the Y shaped icon on the business card. The 3D object should pop up. 
+  - Point the phone or laptop camera at the Y shaped icon on the business card. The 3D object should pop up. If you don't have one of my business cards with the marker on the back, you can use this marker <a href="https://camo.githubusercontent.com/3b732eb69b91f94d781aab16ad69c2abb57e65c2c2cf700d19896ae226aa281f/68747470733a2f2f7374656d6b6f736b692e6769746875622e696f2f41522d4578616d706c65732f6d61726b6572732f6b616e6a692e706e67">here</a>.
 - This <a href="https://twitter.com/JustinGosses/status/848636777028096001">Video</a> on twitter shows the first version in action with a different 3D model . 
 
 ## Current model & marker
@@ -34,10 +34,10 @@ The only slightly confusing thing about this is that when I tried to use my old 
 Screenshot of current model of Jezero Crater in Augmented Reality via marker on business card.
 <img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/assets/Jezero_Crater_ar_screenshot.png" width="800">
 
-Previous AR Images in Action
+Previous AR model of Gale Crater in action
 <img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/development_tests_and_unused_currently_assets/old/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png" width="400">
 
-Icon that is AR Target 
+Marker that is AR Target 
 <img src="https://stemkoski.github.io/AR-Examples/markers/kanji.png" width="100">
 
 Previous model used was a 3D image of Gale Crater created by <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>
