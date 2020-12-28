@@ -32,10 +32,10 @@ The only slightly confusing thing about this is that when I tried to use my old 
 # Other
 
 Screenshot of current model of Jezero Crater in Augmented Reality via marker on business card.
-<img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/assets/Jezero_Crater_ar_screenshot.png" width="400">
+<img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/assets/Jezero_Crater_ar_screenshot.png" width="800">
 
 Previous AR Images in Action
-<img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/development_tests_and_unused_currently_assets/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png" width="400">
+<img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/development_tests_and_unused_currently_assets/old/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png" width="400">
 
 Icon that is AR Target 
 <img src="https://stemkoski.github.io/AR-Examples/markers/kanji.png" width="100">
