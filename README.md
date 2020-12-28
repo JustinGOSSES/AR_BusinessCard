@@ -29,10 +29,10 @@ The original version of the site leveraged several JavaScript libraries and wrot
 The only slightly confusing thing about this is that when I tried to use my old kanji.png file to create a marker, it added an extra black border, which then caused the JavaScript to not be able to recognize the marker correctly. I was able to solve this problem by editing the Kanji PNG file I had to take out the black border. The tool then adds a black border. The result can be recognized and is identical to the business cards I have already distributed. 
 
 
-# An Augmented Reality Object of Gale Crater on Mars Triggered By Icon on Backside of Business Card
+# Other
 Previous AR Images in Action
 <img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/development_tests_and_unused_currently_assets/images/Screen%20Shot%202017-04-01%20at%209.39.35%20PM.png" width="400">
 Icon that is AR Target
-<img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/development_tests_and_unused_currently_assets/images/kanji.png" width="100">
+<img src="https://stemkoski.github.io/AR-Examples/markers/kanji.png" width="100">
 
 Previous model used was a 3D image of Gale Crater created by <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>
