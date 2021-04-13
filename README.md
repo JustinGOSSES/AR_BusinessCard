@@ -43,5 +43,6 @@ Marker that is AR Target
 
 License information for various JavaScript code reused by this project is in the files themselves or referenced there. The overall project has a <a href="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/LICENSE">MIT license</a>.
 
-Previous model used was a 3D image of Gale Crater created by <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>
+Previous model used was a 3D image of Gale Crater created by <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>.
+Current model used is a <a href="https://sketchfab.com/3d-models/jezero-crater-ctx-dtm-5e1c1400fbc844979cebc894889088a2">3D model of Jezero Crater</a> from Martin J Platt posted on sketchfab, which is based out of <a href="https://hirise.lpl.arizona.edu/dtm/dtm.php?ID=ESP_046060_1985">HiRise DTM and orthmosiacs from Lunar Planetary Laborator at University of Arizonia</a>. 
 
