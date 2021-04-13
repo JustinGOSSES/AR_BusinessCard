@@ -32,7 +32,7 @@ The original version of the site leveraged several JavaScript libraries and wrot
 The only slightly confusing thing about this is that when I tried to use my old kanji.png file to create a marker, it added an extra black border, which then caused the JavaScript to not be able to recognize the marker correctly. I was able to solve this problem by editing the Kanji PNG file I had to take out the black border. The tool then adds a black border. The result can be recognized and is identical to the business cards I have already distributed. 
 
 
-# Other
+# Images
 
 Screenshot of current model of Jezero Crater in Augmented Reality via marker on business card.
 <img src="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/assets/Jezero_Crater_ar_screenshot.png" width="800">
