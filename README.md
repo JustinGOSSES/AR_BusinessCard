@@ -17,6 +17,9 @@ In the past, a globe was seen and before that, Gale Crater, the landing site of 
 ">Martin Pratt</a>. I believe it may have been generated from an image & DEM from <a href="https://www.uahirise.org/results.php?keyword=Jezero&order=release_date&submit=Search">HiRise</a>, but I'm not 100% sure. 
 - The <a href="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/assets/marker.patt">marker</a> is a standard Kanji marker.
 
+#### Previous Model
+Previous model used was a 3D image of Gale Crater created by <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>.
+
 ## How the site was created.
 The original version of the site leveraged several JavaScript libraries and wrote the code to combine them together. 
 - <a href="https://github.com/jeromeetienne/AR.js">AR.js</a>
@@ -40,9 +43,8 @@ Previous AR model of Gale Crater in action
 Marker that is AR Target 
 <img src="https://stemkoski.github.io/AR-Examples/markers/kanji.png" width="100">
 
-
+# Licenses
 License information for various JavaScript code reused by this project is in the files themselves or referenced there. The overall project has a <a href="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/LICENSE">MIT license</a>.
 
-Previous model used was a 3D image of Gale Crater created by <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>.
-Current model used is a <a href="https://sketchfab.com/3d-models/jezero-crater-ctx-dtm-5e1c1400fbc844979cebc894889088a2">3D model of Jezero Crater</a> from Martin J Platt posted on sketchfab, which is based out of <a href="https://hirise.lpl.arizona.edu/dtm/dtm.php?ID=ESP_046060_1985">HiRise DTM and orthmosiacs from Lunar Planetary Laborator at University of Arizonia</a>. 
+
 
