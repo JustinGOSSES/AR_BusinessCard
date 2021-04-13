@@ -41,7 +41,7 @@ Marker that is AR Target
 <img src="https://stemkoski.github.io/AR-Examples/markers/kanji.png" width="100">
 
 
-License information for various JavaScript code reused by this project is in the files themselves or referenced there.
+License information for various JavaScript code reused by this project is in the files themselves or referenced there. The overall project has a <a href="https://github.com/JustinGOSSES/AR_BusinessCard/blob/main/LICENSE">MIT license</a>.
 
 Previous model used was a 3D image of Gale Crater created by <a href="https://nasa3d.arc.nasa.gov/detail/gale-crater">Author/Origin: Doug Ellison / NASA-JPL</a>
 
